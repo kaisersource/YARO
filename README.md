@@ -1,2 +1,2 @@
 # YARO
-Redis Operator 
+Redis Operator for k8s
