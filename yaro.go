@@ -1,4 +1,3 @@
-write a kubernetes operator for redis  in go. Provides high availability for Redis with automatic failover. Please write comments in informal way
 
 
 
